@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm obtained a bachelor's degree in Korean Language and Literature
-\nI’m currently learning natural language processing.
+
+I’m currently learning natural language processing.
 
 <!--
 **Shushukang/Shushukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
